@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning Front-end & Python ...
 
-- 💞️I’m looking to collaborate on different projects on website development,python project particularly Front-End & backend.
+- 💞️I’m looking to collaborate on different projects on website development, python project particularly Front-End & backend.
 
 - 💬 Ask me anything about Ingressive for Good
 
 - ⚡ Fun fact: I love participating in changemaking activities 
 
-- 📫 Want to connect with me?  👇  👇 
+- 📫 Want to connect with me?  
 
 Facebook 👉  @ Abraham Dominic Newton, Twitter 👉  @ Abrahamdimenick, Instagram 👉  @ Abrahamdomenik...
 
