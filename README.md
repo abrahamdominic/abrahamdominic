@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Front-end & Python ...
 
-- 💞️I’m looking to collaborate on different projects on website development, python project particularly Front-End & backend.
+- 💞️I’m looking to collaborate on different projects on Website Development, Python project particularly Front-End & Backend.
 
 - 💬 Ask me anything about Ingressive for Good
 
