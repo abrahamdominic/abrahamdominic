@@ -14,11 +14,11 @@
 
 - 📫 Want to connect with me?  
 
-Facebook 👉  @ Abraham Dominic Newton, Twitter 👉  @ Abrahamdimenick, Instagram 👉  @ Abrahamdomenik...
+Facebook 👉  @ Abraham Dominic Newton, Twitter 👉  @ Abrahamdomenick, Instagram 👉  @ Abrahamdomenik...
 
 📧 Abrahamdominicnewton@gmail.com
 
-Portfolio: https://linkedin.com/in/abrahamdominicnewton
+Portfolio: https://abrahamdominiculoko.netlify.com
 
 
 📫 Reach me via: abrahamdominicnewton@gmail.com
