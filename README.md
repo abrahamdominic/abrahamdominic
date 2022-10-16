@@ -78,7 +78,7 @@ Work 💼
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamdominic&show_icons=true&locale=en" alt="abrahamdominic" /></p>
   
   
-[![Abrahamdominic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abrahamdominic&theme=xcode)]
+[![Abrahamdominic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abrahamdominic&theme=xcode)
 
 
 
