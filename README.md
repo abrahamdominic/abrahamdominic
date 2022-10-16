@@ -24,7 +24,7 @@ Facebook 👉  @ Abraham Dominic Newton, Twitter 👉  @ Abrahamdomenick, Instag
 
 📧 Abrahamdominicnewton@gmail.com
 
-Portfolio: https://abrahamdominiculoko.netlify.com
+Portfolio: https://abrahamnewton.netlify.com
 
 
 📫 Reach me via: abrahamdominicnewton@gmail.com
@@ -33,9 +33,22 @@ Work 💼
 📧 abrahamdominicnewton@gmail.com
 
 
+<p align="center">
+  
+  <a href="https://github.com/abrahamdominic?tab=followers">
+    <img src="https://img.shields.io/github/followers/abrahamdominic?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://twitter.com/abrahamdomenick">
+    <img src="https://img.shields.io/twitter/follow/abrahamdomenick?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/@DOMINIC#6727">
+    <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
+  </a>
+</p>
+
 
  Support me 
-- <a href="https://paystack.com/pay/Iamveektoria">:heart: Sponsor me</a>
+- <a href="">:heart: Sponsor me</a>
 
 ## Language and Tools:
 <p align="center">
@@ -53,8 +66,6 @@ Work 💼
  <div align="center">
  <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdominic&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <p align="center"> My Trophies🏆</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdominic alt="abrahamdominic" /></a> </p>
   
   <p align="center">My Contribution Streak🔥</p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamdominic&" alt="abrahamdominic" /></p>
@@ -64,7 +75,7 @@ Work 💼
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamdominic&show_icons=true&locale=en" alt="abrahamdominic" /></p>
   
   
-[![Abrahamdominic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abrahamdominic&theme=xcode)](https://git.io/abrahamdominic)
+[![Abrahamdominic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abrahamdominic&theme=xcode)]
 
 
 
