@@ -32,7 +32,9 @@ Portfolio: https://abrahamnewton.netlify.com
 Work 💼
 📧 abrahamdominicnewton@gmail.com
 
-<img src="https://github.com/abrahamdominic/abrahamdominic/blob/main/ab.gif" alt="Abraham" width="500" height="300">
+<p><img src="https://github.com/abrahamdominic/abrahamdominic/blob/main/ab.gif" alt="Abraham" width="500" height="300"></p>
+
+
 
 
 <p align="center">
@@ -48,6 +50,7 @@ Work 💼
   </a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdominic&label=Profile%20views&color=0e75b6&style=flat" alt="Abraham" /> </p>
 
  Support me 
 - <a href="">:heart: Sponsor me</a>
