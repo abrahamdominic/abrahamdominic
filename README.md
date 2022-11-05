@@ -32,6 +32,8 @@ Portfolio: https://abrahamnewton.netlify.com
 Work 💼
 📧 abrahamdominicnewton@gmail.com
 
+<img src="https://github.com/abrahamdominic/abrahamdominic/blob/main/ab.gif" alt="Abraham" width="500" height="300">
+
 
 <p align="center">
   
