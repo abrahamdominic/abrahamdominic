@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact: I love participating in changemaking activities 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 - 📫 Want to connect with me?  
 
 <a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamdomenik"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>  | <a href="https://linkedin.com/in/abrahamdominicnewton"/>Linkedin</a>  
