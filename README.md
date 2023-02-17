@@ -20,7 +20,7 @@
 
 - 📫 Want to connect with me?  
 
-Facebook 👉  @ Abraham Dominic Newton, Twitter 👉  @ Abrahamdomenick, Instagram 👉  @ Abrahamdomenik...
+<a href="https://facebook.com/abdominicnewton"/>Facebook</a>  <a href="https://thitter.com/abrahamdomenik"/>Twitter</a> <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>👉  @ Abrahamdomenik...
 
 📧 Abrahamdominicnewton@gmail.com
 
