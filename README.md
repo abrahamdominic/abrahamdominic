@@ -18,12 +18,12 @@
 
 - ⚡ Fun fact: I love participating in changemaking activities 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abrahamdominicnewton" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/abrahamdominicnewton?trk=profile-badge">Abraham Dominic Newton</a></div>
-              
+
 
 - 📫 Want to connect with me?  
 
-<a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamdomenik"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>  | <a href="https://linkedin.com/in/abrahamdominicnewton"/>Linkedin</a>  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abrahamdominicnewton" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/abrahamdominicnewton?trk=profile-badge">Linkedin</a></div> | <a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamdomenik"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>   | 
+              
 
 📧 Abrahamdominicnewton@gmail.com
 
