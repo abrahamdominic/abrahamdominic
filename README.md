@@ -20,7 +20,7 @@
 
 - 📫 Want to connect with me?  
 
-<a href="https://facebook.com/abdominicnewton"/>Facebook</a>  <a href="https://thitter.com/abrahamdomenik"/>Twitter</a> <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>👉  @ Abrahamdomenik...
+<a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamdomenik"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>  | <a href="https://linkedin.com/in/abrahamdominicnewton"/>Linkedin</a>  
 
 📧 Abrahamdominicnewton@gmail.com
 
@@ -72,22 +72,4 @@ Work 💼
  <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdominic&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <p align="center">My Contribution Streak🔥</p>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamdominic&" alt="abrahamdominic" /></p>
-  <p align="center"> My Trophies🏆</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdominic" alt="abrahamdominic" /></a> </p>
-
-
-  <p align="center">  My GitHub Stats🚀 </p>
-  
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamdominic&show_icons=true&locale=en" alt="abrahamdominic" /></p>
-  
-  
-[![Abrahamdominic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abrahamdominic&theme=xcode)
-
-
-
-<!---
-abrahamdominic/abrahamdominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <p align="center"
