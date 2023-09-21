@@ -4,17 +4,17 @@
   </a>
 </h1>
 
-- 👋 Hi, I’m Abraham Dominic Newton an ardent Front-End Developer with the brand name; Abraham Cyber Tech. I'm passionate about using *codes* to solve *real life* problems; thereby creating a sustainable world for all.
+- 👋 Hi, I’m Abraham Dominic Newton an ardent Web3 Enthusuiats, & Front-End Developer with the brand name; Abraham Cyber Tech. I'm passionate about using *codes* to solve *real life* problems; thereby creating a sustainable world for all.
 
 - 💻 I’m currently an Ingressive for Good Student Ambassador for Federal University Wukari, Taraba State, Nigeria.
 
-- 👀 I’m interested in Cyber Security & Python Language 💻 ...
+- 👀 I’m interested in Web3, Cyber Security & Python Language 💻 ...
 
-- 🌱 I’m currently learning Front-end & Python ...
+- 🌱 I’m currently learning Web3, Blockchain and Smart Contract ...
 
-- 💞️I’m looking to collaborate on different projects on Website Development, Python project particularly Front-End & Backend.
+- 💞️I’m looking to collaborate on different projects on Web3, Website Development, Python project particularly Web3 & Blockchain Technology.
 
-- 💬 Ask me anything about Ingressive for Good
+- 💬 Ask me anything about Ingressive for Good & Web3 
 
 - ⚡ Fun fact: I love participating in changemaking activities 
 
