@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Heyyo!👋;I'm+a+Techie...;Welcome+to+my+Profile!&center=true&size=30&">
   </a>
 </h1>
+<a href="https://app.daily.dev/abrahamdominicnewton"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
+
+- <p>Got my DevCard from	<a href="daily.dev"/>Daily.dev</a></p>
 
 - 👋 Hi, I’m Abraham Dominic Newton an ardent Web3 Enthusuiats, & Front-End Developer with the brand name; Abraham Cyber Tech. I'm passionate about using *codes* to solve *real life* problems; thereby creating a sustainable world for all.
 
