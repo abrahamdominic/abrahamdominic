@@ -48,10 +48,10 @@ Work 💼
   <a href="https://github.com/abrahamdominic?tab=followers">
     <img src="https://img.shields.io/github/followers/abrahamdominic?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/abrahamdomenick">
+  <a href="https://twitter.com/abrahamunchain">
     <img src="https://img.shields.io/twitter/follow/abrahamdomenick?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://discord.com/@DOMINIC#6727">
+  <a href="https://discord.com/@abdominic1">
     <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
   </a>
 </p>
