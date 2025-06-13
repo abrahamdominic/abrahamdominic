@@ -25,7 +25,7 @@
 
 - 📫 Want to connect with me?  
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abrahamdominicnewton" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/abrahamdominicnewton?trk=profile-badge">Linkedin</a></div> | <a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamdomenik"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>   | 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abrahamdominicnewton" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/abrahamdominicnewton?trk=profile-badge">Linkedin</a></div> | <a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamunchain"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>   | 
               
 
 📧 Abrahamdominicnewton@gmail.com
