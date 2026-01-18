@@ -8,8 +8,10 @@
 
 ### 🔐 Smart Contract Security Reseacher | Solidity Developer | Discord Engineer
 
-I’m deeply focused on **Solidity**, **Smart Contract Auditing**, and **Web3 Security**. 
+---
 
+I’m deeply focused on **Solidity**, **Smart Contract Auditing**, and **Web3 Security**. 
+---
 My goal is to build and secure decentralized systems that are robust, transparent, and resistant to real world attacks.
 
 ---
@@ -74,7 +76,7 @@ My goal is to build and secure decentralized systems that are robust, transparen
 <p><img src="https://github.com/abrahamdominic/abrahamdominic/blob/main/ab.gif" alt="Abraham" width="500" height="300"></p>
 
 
-
+---
 
 <p align="center">
   
@@ -93,11 +95,6 @@ My goal is to build and secure decentralized systems that are robust, transparen
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahamdominic&show_icons=true&theme=radical)
-
----
 
  <div align="center">
  <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdominic&layout=compact&langs_count=7&theme=dark"/>
@@ -108,11 +105,11 @@ My goal is to build and secure decentralized systems that are robust, transparen
 ---
 > **“In Web3, security isn’t optional, it’s the foundation.”**
 ---
-**Always learning**. 
+Always Learning. 
 ---
-**Always auditing**. 
+**Always Auditing**. 
 ---
-**Always building securely**.
+**Always Building Securely**.
 ---
 
 <a href="https://app.daily.dev/abrahamdominicnewton"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
