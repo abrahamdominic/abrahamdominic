@@ -3,40 +3,73 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Heyyo!👋;I'm+a+Techie...;Welcome+to+my+Profile!&center=true&size=30&">
   </a>
 </h1>
-<a href="https://app.daily.dev/abrahamdominicnewton"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
 
-- <p>Got my DevCard from	<a href="daily.dev"/>Daily.dev</a></p>
+# 👋 Hi, I’m **Abraham Dominic Newton**
 
-- 👋 Hi, I’m Abraham Dominic Newton an ardent Web3 Enthusuiats, & Front-End Developer with the brand name; Abraham Cyber Tech. I'm passionate about using *codes* to solve *real life* problems; thereby creating a sustainable world for all.
+### 🔐 Smart Contract Security Reseacher | Solidity Developer | Discord Engineer
 
-- 💻 I’m currently an Ingressive for Good Student Ambassador for Federal University Wukari, Taraba State, Nigeria.
+I’m deeply focused on **Solidity**, **Smart Contract Auditing**, and **Web3 Security**. 
 
-- 👀 I’m interested in Web3, Cyber Security & Python Language 💻 ...
+My goal is to build and secure decentralized systems that are robust, transparent, and resistant to real world attacks.
 
-- 🌱 I’m currently learning Web3, Blockchain and Smart Contract ...
+---
 
-- 💞️I’m looking to collaborate on different projects on Web3, Website Development, Python project particularly Web3 & Blockchain Technology.
+## 🛡️ Current Focus
 
-- 💬 Ask me anything about Ingressive for Good & Web3 
+- 🔍 **Smart Contract Security**
+  - Vulnerability research & exploit analysis
+  - Understanding common attack vectors (reentrancy, logic flaws, access control issues, etc.)
+  - Secure smart contract design patterns
 
-- ⚡ Fun fact: I love participating in changemaking activities 
+- 🧠 **Solidity & Ethereum**
+  - Writing clean, gas efficient Solidity code
+  - Learning EVM internals and low level behavior
+  - Exploring DeFi protocols and real world contract architectures
 
+- 🌐 **Web3 Security**
+  - Threat modeling for decentralized applications
+  - Audit mindset & security best practices
+  - Exploring tooling used in professional audits
 
+---
 
-- 📫 Want to connect with me?  
+## 🛠️ Security Stack & Tools
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abrahamdominicnewton" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/abrahamdominicnewton?trk=profile-badge">Linkedin</a></div> | <a href="https://facebook.com/abdominicnewton"/>Facebook</a> | <a href="https://twitter.com/abrahamunchain"/>Twitter</a>  | <a href="https://instagram.com/abrahamdomenik"/>Instagram</a>   | 
-              
+### 🔒 Smart Contract & Web3 Security
+![Solidity](https://img.shields.io/badge/Solidity-0.8.x-363636?style=flat&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-EVM-3C3C3D?style=flat&logo=ethereum)
+![Foundry](https://img.shields.io/badge/Foundry-Smart%20Contract%20Testing-FF6C37?style=flat)
+![Hardhat](https://img.shields.io/badge/Hardhat-Development-F7DF1E?style=flat&logo=hardhat&logoColor=black)
 
-📧 Abrahamdominicnewton@gmail.com
+### 🧪 Development & Security Tooling
+![Linux](https://img.shields.io/badge/Linux-Security%20Environment-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20&%20Audits-181717?style=flat&logo=github)
+![Python](https://img.shields.io/badge/Python-Security%20Scripting-3670A0?style=flat&logo=python&logoColor=white)
 
-Portfolio: https://abrahamnewton.netlify.com
+---
 
+## 💻 Open Source & Collaboration
 
-📫 Reach me via: abrahamdominicnewton@gmail.com
+- 💡 I love **contributing to open source projects** and building tools that help **developers and learners** understand blockchain and security concepts.
+  
+- 🤝 I’m **open to collaborations in smart contract security**, audit practice, research, and educational tooling.
 
-Work 💼
-📧 abrahamdominicnewton@gmail.com
+- 🌱 Always learning deepening my knowledge in **Blockchain, Smart Contracts, and Web3 Security**.
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: https://abdominic.netlify.app/
+
+- ✉️ Email: onchaindevrel@gmail.com
+
+- 🐦 Twitter/X: https://twitter.com/Abrahamonchain
+
+- 🔗 LinkedIn: https://linkedin.com/in/abrahamdominicnewton
+
+---
 
 <p><img src="https://github.com/abrahamdominic/abrahamdominic/blob/main/ab.gif" alt="Abraham" width="500" height="300"></p>
 
@@ -48,8 +81,8 @@ Work 💼
   <a href="https://github.com/abrahamdominic?tab=followers">
     <img src="https://img.shields.io/github/followers/abrahamdominic?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/abrahamunchain">
-    <img src="https://img.shields.io/twitter/follow/abrahamdomenick?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://x.com/abrahamonchain">
+    <img src="https://img.shields.io/twitter/follow/abrahamonchain?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://discord.com/@abdominic1">
     <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
@@ -58,24 +91,27 @@ Work 💼
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdominic&label=Profile%20views&color=0e75b6&style=flat" alt="Abraham" /> </p>
 
- Support me 
-- <a href="">:heart: Sponsor me</a>
+---
 
-## Language and Tools:
-<p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="vertical-align:top; margin:4px"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
-    style="vertical-align:top; margin: 4px">
- 
-</p>
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahamdominic&show_icons=true&theme=radical)
+
+---
 
  <div align="center">
  <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdominic&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <p align="center"
+
+> **“In Web3, security isn’t optional — it’s the foundation.”**
+
+Always learning. Always auditing. Always building securely
+
+
+<a href="https://app.daily.dev/abrahamdominicnewton"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
+
+- <p>Got my DevCard from	<a href="daily.dev"/>Daily.dev</a></p>
+
+
