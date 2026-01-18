@@ -65,7 +65,7 @@ My goal is to build and secure decentralized systems that are robust, transparen
 
 - ✉️ Email: onchaindevrel@gmail.com
 
-- 🐦 Twitter/X: https://twitter.com/Abrahamonchain
+- 🐦 X: https://x.com/abrahamonchain
 
 - 🔗 LinkedIn: https://linkedin.com/in/abrahamdominicnewton
 
@@ -103,12 +103,17 @@ My goal is to build and secure decentralized systems that are robust, transparen
  <img align="center" width=690em src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdominic&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <p align="center"
+  <p align="center">
 
-> **“In Web3, security isn’t optional — it’s the foundation.”**
-
-Always learning. Always auditing. Always building securely
-
+---
+> **“In Web3, security isn’t optional, it’s the foundation.”**
+---
+**Always learning**. 
+---
+**Always auditing**. 
+---
+**Always building securely**.
+---
 
 <a href="https://app.daily.dev/abrahamdominicnewton"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
 
