@@ -112,8 +112,8 @@ Always Learning.
 **Always Building Securely**.
 ---
 
-<a href="https://app.daily.dev/abrahamdominicnewton"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
+<a href="https://app.daily.dev/iamabraham"><img src="https://api.daily.dev/devcards/a65447f9bca04cef8bdbe7a023506613.png?r=d4c" width="400" alt="Abraham Dominic Newton's Dev Card"/></a>
 
-- <p>Got my DevCard from	<a href="daily.dev"/>Daily.dev</a></p>
+- <p>Got my DevCard from	<a href="https://daily.dev"/>Daily.dev</a></p>
 
 
